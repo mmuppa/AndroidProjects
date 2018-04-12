@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments Example</string>
+
+    <string name="txt_hello">Hello</string>
+
+    <string name="txt_other">Other Fragment</string>
+</resources>
